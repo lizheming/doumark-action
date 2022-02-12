@@ -1,0 +1,31 @@
+name: "Douban mark sync"
+author: "Austin Lee"
+description: "Douban movie/book/music marked data sync to csv or notion action"
+
+inputs:
+  id:
+    description: "Your douban user_id"
+    required: true
+  type:
+    description: "Douban data Type, enum value: `movie`, `book`, `music`, default `movie`"
+    default: movie
+    required: false
+  format:
+    description: "Douban data store format, enum value：`csv`, `json`, `notion`, default `csv`"
+    default: csv
+    required: false
+  dir:
+    description: "Target where douban data sync to. It's a file path for `csv` and `json` format, and a notion database id for `notion` format."
+    default: ./
+    required: true
+  notion_token:
+    description:  "Notion Integration Token"
+    required: false
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "activity"
+  color: "green"
