@@ -27,6 +27,9 @@ jobs:
     name: Douban mark data sync
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
     - name: movie
       uses: lizheming/doumark-action@master
       with:
@@ -42,6 +45,12 @@ jobs:
         type: music
         format: csv
         dir: ./data/douban
+  
+    - name: Commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        message: 'chore: update douban data'
+        add: './data/douban'
 ```
 ### Sync to Notion
 
