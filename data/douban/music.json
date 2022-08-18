@@ -1,0 +1,3120 @@
+[
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/5352076/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/5352076/interest/330849971",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-12-24 21:12:09",
+		"status": "done",
+		"id": 330849971,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 18234,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2009-12-18"
+			],
+			"title": "簡單/不簡單",
+			"url": "https://music.douban.com/subject/5352076/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4104846.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4104846.jpg"
+			},
+			"singer": [
+				{
+					"name": "黃小琥"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4104846.jpg",
+			"uri": "douban://douban.com/music/5352076",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "黃小琥 / 2009",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72706b",
+				"_base_color": [
+					0.11538461538461549,
+					0.0596330275229357,
+					0.8549019607843137
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.12500000000000014,
+					0.06611570247933884,
+					0.4745098039215686
+				],
+				"primary_color_dark": "4c4b47"
+			},
+			"type": "music",
+			"id": "5352076",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/5352076/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/5372243/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/5372243/interest/330849569",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-12-24 21:11:19",
+		"status": "done",
+		"id": 330849569,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 855,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.2
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-11-15"
+			],
+			"title": "出发",
+			"url": "https://music.douban.com/subject/5372243/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4713821.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4713821.jpg"
+			},
+			"singer": [
+				{
+					"name": "潘辰"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4713821.jpg",
+			"uri": "douban://douban.com/music/5372243",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "潘辰 / 2010",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59a97",
+				"_base_color": [
+					0.0350877192982455,
+					0.08715596330275224,
+					0.8549019607843137
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.9736842105263157,
+					0.10439560439560448,
+					0.7137254901960784
+				],
+				"primary_color_dark": "7f7674"
+			},
+			"type": "music",
+			"id": "5372243",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/5372243/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/5356848/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/5356848/interest/330842773",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-12-24 20:54:46",
+		"status": "done",
+		"id": 330842773,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 899,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.3
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-11-30"
+			],
+			"title": "The Beginning (Deluxe Edition)",
+			"url": "https://music.douban.com/subject/5356848/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4532442.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4532442.jpg"
+			},
+			"singer": [
+				{
+					"name": "The Black Eyed Peas"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4532442.jpg",
+			"uri": "douban://douban.com/music/5356848",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "The Black Eyed Peas / 2010",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "726158",
+				"_base_color": [
+					0.05555555555555556,
+					0.23076923076923078,
+					0.050980392156862744
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.10144927536231885,
+					0.30263157894736836,
+					0.2980392156862745
+				],
+				"primary_color_dark": "4c403a"
+			},
+			"type": "music",
+			"id": "5356848",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/5356848/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://music.douban.com/subject/1411220/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1411220/interest/330841939",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-12-24 20:52:38",
+		"status": "done",
+		"id": 330841939,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 804,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9
+			},
+			"genres": [
+				"布鲁斯"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"1994"
+			],
+			"title": "The Cream of Clapton",
+			"url": "https://music.douban.com/subject/1411220/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1419061.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1419061.jpg"
+			},
+			"singer": [
+				{
+					"name": "Eric Clapton"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s1419061.jpg",
+			"uri": "douban://douban.com/music/1411220",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Eric Clapton / 1994",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "5f6c72",
+				"_base_color": [
+					0.5588235294117646,
+					0.16346153846153844,
+					0.40784313725490196
+				],
+				"secondary_color": "f4f8f9",
+				"_avg_color": [
+					0.5694444444444443,
+					0.1142857142857143,
+					0.4117647058823529
+				],
+				"primary_color_dark": "3f484c"
+			},
+			"type": "music",
+			"id": "1411220",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1411220/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/2134548/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2134548/interest/268203670",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 19:35:35",
+		"status": "done",
+		"id": 268203670,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 80554,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2007-07-06"
+			],
+			"title": "思念是一种病",
+			"url": "https://music.douban.com/subject/2134548/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s2591057.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s2591057.jpg"
+			},
+			"singer": [
+				{
+					"name": "张震岳 Csun Yuk"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s2591057.jpg",
+			"uri": "douban://douban.com/music/2134548",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "张震岳 Csun Yuk / 2007",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "445772",
+				"_base_color": [
+					0.5972222222222222,
+					0.4,
+					0.11764705882352941
+				],
+				"secondary_color": "f4f6f9",
+				"_avg_color": [
+					0.5909090909090909,
+					0.11702127659574471,
+					0.3686274509803922
+				],
+				"primary_color_dark": "2d3a4c"
+			},
+			"type": "music",
+			"id": "2134548",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/2134548/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/1402640/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1402640/interest/268195492",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 19:02:14",
+		"status": "done",
+		"id": 268195492,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 2143,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.1
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2000"
+			],
+			"title": "张信哲精选",
+			"url": "https://music.douban.com/subject/1402640/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4713169.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4713169.jpg"
+			},
+			"singer": [
+				{
+					"name": "张信哲"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4713169.jpg",
+			"uri": "douban://douban.com/music/1402640",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "张信哲 / 2000",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a392a5",
+				"_base_color": [
+					0.8148148148148149,
+					0.11392405063291135,
+					0.30980392156862746
+				],
+				"secondary_color": "f9f4f9",
+				"_avg_color": [
+					0.9848484848484849,
+					0.08461538461538454,
+					0.5098039215686274
+				],
+				"primary_color_dark": "7d707f"
+			},
+			"type": "music",
+			"id": "1402640",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1402640/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1421922/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1421922/interest/268137392",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:59:20",
+		"status": "done",
+		"id": 268137392,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 35194,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.6
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2006"
+			],
+			"title": "Daniel Powter",
+			"url": "https://music.douban.com/subject/1421922/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1661548.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1661548.jpg"
+			},
+			"singer": [
+				{
+					"name": "Daniel Powter"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s1661548.jpg",
+			"uri": "douban://douban.com/music/1421922",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Daniel Powter / 2006",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59124",
+				"_base_color": [
+					0.1409214092140921,
+					0.7784810126582279,
+					0.6196078431372549
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.1357388316151203,
+					0.610062893081761,
+					0.6235294117647059
+				],
+				"primary_color_dark": "7f701c"
+			},
+			"type": "music",
+			"id": "1421922",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1421922/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1428367/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1428367/interest/268137249",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:58:52",
+		"status": "done",
+		"id": 268137249,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 2264,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9
+			},
+			"genres": [
+				"摇滚"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2005"
+			],
+			"title": "Angels",
+			"url": "https://music.douban.com/subject/1428367/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4715287.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4715287.jpg"
+			},
+			"singer": [
+				{
+					"name": "Within Temptation"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4715287.jpg",
+			"uri": "douban://douban.com/music/1428367",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Within Temptation / 2005",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "5a91a5",
+				"_base_color": [
+					0.5447154471544716,
+					0.45555555555555555,
+					0.35294117647058826
+				],
+				"secondary_color": "f4f8f9",
+				"_avg_color": [
+					0.5727272727272728,
+					0.3716216216216217,
+					0.5803921568627451
+				],
+				"primary_color_dark": "456f7f"
+			},
+			"type": "music",
+			"id": "1428367",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1428367/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1999167/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1999167/interest/268137227",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:58:47",
+		"status": "done",
+		"id": 268137227,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 4799,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.7
+			},
+			"genres": [
+				"摇滚"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2007-07-24"
+			],
+			"title": "The Heart Of Everything",
+			"url": "https://music.douban.com/subject/1999167/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3633830.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3633830.jpg"
+			},
+			"singer": [
+				{
+					"name": "Within Temptation"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3633830.jpg",
+			"uri": "douban://douban.com/music/1999167",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Within Temptation / 2007",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "726c52",
+				"_base_color": [
+					0.13333333333333333,
+					0.2777777777777778,
+					0.07058823529411765
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.14444444444444446,
+					0.32608695652173914,
+					0.1803921568627451
+				],
+				"primary_color_dark": "4c4837"
+			},
+			"type": "music",
+			"id": "1999167",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1999167/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/3718318/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3718318/interest/268137092",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:58:22",
+		"status": "done",
+		"id": 268137092,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"genres": [],
+			"controversy_reason": "",
+			"pubdate": [
+				"1997-04-21"
+			],
+			"title": "Classic Elvis",
+			"url": "https://music.douban.com/subject/3718318/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3770425.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3770425.jpg"
+			},
+			"singer": [
+				{
+					"name": "Elvis Presley"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3770425.jpg",
+			"uri": "douban://douban.com/music/3718318",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Elvis Presley / 1997",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "6a6272",
+				"_base_color": [
+					0.7471264367816093,
+					0.13744075829383878,
+					0.8274509803921568
+				],
+				"secondary_color": "f7f4f9",
+				"_avg_color": [
+					0.6587301587301586,
+					0.22340425531914904,
+					0.3686274509803922
+				],
+				"primary_color_dark": "47414c"
+			},
+			"type": "music",
+			"id": "3718318",
+			"null_rating_reason": "暂无评分",
+			"sharing_url": "https://music.douban.com/subject/3718318/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/3335374/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3335374/interest/268136763",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:57:24",
+		"status": "done",
+		"id": 268136763,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 42991,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.1
+			},
+			"genres": [
+				"爵士"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2009-01-16"
+			],
+			"title": "Joanna & 王若琳",
+			"url": "https://music.douban.com/subject/3335374/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3550503.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3550503.jpg"
+			},
+			"singer": [
+				{
+					"name": "王若琳"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3550503.jpg",
+			"uri": "douban://douban.com/music/3335374",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王若琳 / 2009",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a3a5a5",
+				"_base_color": [
+					0.5,
+					0.014218009478672937,
+					0.8274509803921568
+				],
+				"secondary_color": "f4f9f9",
+				"_avg_color": [
+					0.25,
+					0.013071895424836555,
+					0.6
+				],
+				"primary_color_dark": "7d7f7f"
+			},
+			"type": "music",
+			"id": "3335374",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3335374/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/3323600/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3323600/interest/268136569",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:57:01",
+		"status": "done",
+		"id": 268136569,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 23487,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.1
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-12-26"
+			],
+			"title": "心·跳",
+			"url": "https://music.douban.com/subject/3323600/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3485794.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3485794.jpg"
+			},
+			"singer": [
+				{
+					"name": "王力宏 Leehom Wang"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3485794.jpg",
+			"uri": "douban://douban.com/music/3323600",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王力宏 Leehom Wang / 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "723d35",
+				"_base_color": [
+					0.021857923497267766,
+					0.5350877192982456,
+					0.4470588235294118
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.024999999999999984,
+					0.4878048780487805,
+					0.4823529411764706
+				],
+				"primary_color_dark": "4c2823"
+			},
+			"type": "music",
+			"id": "3323600",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3323600/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/2305684/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2305684/interest/268136595",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:56:56",
+		"status": "done",
+		"id": 268136595,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 6891,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.5
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2004-12-31"
+			],
+			"title": "王力宏：心中的日月",
+			"url": "https://music.douban.com/subject/2305684/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3652288.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3652288.jpg"
+			},
+			"singer": [
+				{
+					"name": "王力宏"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3652288.jpg",
+			"uri": "douban://douban.com/music/2305684",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王力宏 / 2004",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "6a6a72",
+				"_base_color": [
+					0.6666666666666666,
+					0.0722891566265061,
+					0.3254901960784314
+				],
+				"secondary_color": "f4f4f9",
+				"_avg_color": [
+					0.6666666666666666,
+					0.03636363636363636,
+					0.43137254901960786
+				],
+				"primary_color_dark": "46464c"
+			},
+			"type": "music",
+			"id": "2305684",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/2305684/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/1407582/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1407582/interest/268136588",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:56:54",
+		"status": "done",
+		"id": 268136588,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 9699,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.6
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2003"
+			],
+			"title": "不可思议",
+			"url": "https://music.douban.com/subject/1407582/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4630091.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4630091.jpg"
+			},
+			"singer": [
+				{
+					"name": "王力宏"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4630091.jpg",
+			"uri": "douban://douban.com/music/1407582",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王力宏 / 2003",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "6d7261",
+				"_base_color": [
+					0.2166666666666667,
+					0.14705882352941177,
+					0.26666666666666666
+				],
+				"secondary_color": "f8f9f4",
+				"_avg_color": [
+					0.12499999999999996,
+					0.11320754716981131,
+					0.41568627450980394
+				],
+				"primary_color_dark": "494c41"
+			},
+			"type": "music",
+			"id": "1407582",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1407582/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/1818350/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1818350/interest/268136559",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:56:47",
+		"status": "done",
+		"id": 268136559,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 17547,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2001"
+			],
+			"title": "唯一",
+			"url": "https://music.douban.com/subject/1818350/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s27076650.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s27076650.jpg"
+			},
+			"singer": [
+				{
+					"name": "王力宏"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s27076650.jpg",
+			"uri": "douban://douban.com/music/1818350",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王力宏 / 2001",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59b74",
+				"_base_color": [
+					0.13271604938271608,
+					0.2950819672131148,
+					0.7176470588235294
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.125,
+					0.18604651162790697,
+					0.6745098039215687
+				],
+				"primary_color_dark": "7f7759"
+			},
+			"type": "music",
+			"id": "1818350",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1818350/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/1408378/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1408378/interest/268136344",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:56:09",
+		"status": "done",
+		"id": 268136344,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 38269,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"genres": [
+				"民谣"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2002-12-01"
+			],
+			"title": "时光·漫步",
+			"url": "https://music.douban.com/subject/1408378/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3839391.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3839391.jpg"
+			},
+			"singer": [
+				{
+					"name": "许巍 Wei Xu"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3839391.jpg",
+			"uri": "douban://douban.com/music/1408378",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "许巍 Wei Xu / 2002",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "727272",
+				"_base_color": [
+					0,
+					0,
+					0.21176470588235294
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0,
+					0,
+					0.3686274509803922
+				],
+				"primary_color_dark": "4c4c4c"
+			},
+			"type": "music",
+			"id": "1408378",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1408378/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/1478828/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1478828/interest/268136298",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-07-07 15:56:00",
+		"status": "done",
+		"id": 268136298,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 17178,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"genres": [
+				"摇滚"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2006-02-16"
+			],
+			"title": "在路上…",
+			"url": "https://music.douban.com/subject/1478828/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3839389.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3839389.jpg"
+			},
+			"singer": [
+				{
+					"name": "许巍"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3839389.jpg",
+			"uri": "douban://douban.com/music/1478828",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "许巍 / 2006",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "4aa4a5",
+				"_base_color": [
+					0.50187265917603,
+					0.5527950310559007,
+					0.6313725490196078
+				],
+				"secondary_color": "f4f9f9",
+				"_avg_color": [
+					0.5032679738562091,
+					0.37777777777777777,
+					0.5294117647058824
+				],
+				"primary_color_dark": "397e7f"
+			},
+			"type": "music",
+			"id": "1478828",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1478828/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/1997995/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1997995/interest/250307378",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-13 14:17:06",
+		"status": "done",
+		"id": 250307378,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 5848,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.6
+			},
+			"genres": [
+				"民谣"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2007/02/06 "
+			],
+			"title": "如风往事",
+			"url": "https://music.douban.com/subject/1997995/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4714496.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4714496.jpg"
+			},
+			"singer": [
+				{
+					"name": "小娟&山谷里的居民"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4714496.jpg",
+			"uri": "douban://douban.com/music/1997995",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "小娟&山谷里的居民 / 2007/02/06 ",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a58965",
+				"_base_color": [
+					0.09437751004016064,
+					0.3896713615023475,
+					0.8352941176470589
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.08920187793427231,
+					0.41040462427745666,
+					0.6784313725490196
+				],
+				"primary_color_dark": "7f694d"
+			},
+			"type": "music",
+			"id": "1997995",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1997995/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/3292251/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3292251/interest/250307431",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-13 14:16:41",
+		"status": "done",
+		"id": 250307431,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 8666,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-12"
+			],
+			"title": "红布绿花朵",
+			"url": "https://music.douban.com/subject/3292251/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4077584.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4077584.jpg"
+			},
+			"singer": [
+				{
+					"name": "小娟&山谷里的居民"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4077584.jpg",
+			"uri": "douban://douban.com/music/3292251",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "小娟&山谷里的居民 / 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "726e67",
+				"_base_color": [
+					0.10000000000000005,
+					0.10204081632653068,
+					0.7686274509803922
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.1458333333333334,
+					0.09090909090909091,
+					0.34509803921568627
+				],
+				"primary_color_dark": "4c4944"
+			},
+			"type": "music",
+			"id": "3292251",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3292251/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/3830332/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3830332/interest/248662042",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-08 15:08:04",
+		"status": "done",
+		"id": 248662042,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 639,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 6.7
+			},
+			"genres": [],
+			"controversy_reason": "",
+			"pubdate": [
+				"2009-07-10"
+			],
+			"title": "心的东方",
+			"url": "https://music.douban.com/subject/3830332/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3867155.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3867155.jpg"
+			},
+			"singer": [
+				{
+					"name": "阿兰"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3867155.jpg",
+			"uri": "douban://douban.com/music/3830332",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "阿兰 / 2009",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a58a85",
+				"_base_color": [
+					0.025925925925925925,
+					0.1973684210526316,
+					0.8941176470588236
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.02991452991452992,
+					0.26,
+					0.5882352941176471
+				],
+				"primary_color_dark": "7f6a66"
+			},
+			"type": "music",
+			"id": "3830332",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3830332/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/4812264/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4812264/interest/248604101",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-08 12:17:08",
+		"status": "done",
+		"id": 248604101,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 9377,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.2
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-05-07"
+			],
+			"title": "倫敦的愛情",
+			"url": "https://music.douban.com/subject/4812264/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4368463.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4368463.jpg"
+			},
+			"singer": [
+				{
+					"name": "藍又時"
+				},
+				{
+					"name": "蓝又时"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4368463.jpg",
+			"uri": "douban://douban.com/music/4812264",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "藍又時 蓝又时 / 2010",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a4a4a5",
+				"_base_color": [
+					0.6666666666666666,
+					0.008928571428571397,
+					0.8784313725490196
+				],
+				"secondary_color": "f4f4f9",
+				"_avg_color": [
+					0.7666666666666666,
+					0.02392344497607647,
+					0.8196078431372549
+				],
+				"primary_color_dark": "7e7e7f"
+			},
+			"type": "music",
+			"id": "4812264",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/4812264/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1455583/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1455583/interest/248288657",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 14:24:38",
+		"status": "done",
+		"id": 248288657,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 21080,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2005-12-30"
+			],
+			"title": "盖世英雄",
+			"url": "https://music.douban.com/subject/1455583/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1476774.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1476774.jpg"
+			},
+			"singer": [
+				{
+					"name": "王力宏 Leehom Wang"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s1476774.jpg",
+			"uri": "douban://douban.com/music/1455583",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王力宏 Leehom Wang / 2005",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "56726f",
+				"_base_color": [
+					0.4791666666666666,
+					0.24242424242424251,
+					0.25882352941176473
+				],
+				"secondary_color": "f4f9f9",
+				"_avg_color": [
+					0.4166666666666668,
+					0.13333333333333341,
+					0.29411764705882354
+				],
+				"primary_color_dark": "394c4a"
+			},
+			"type": "music",
+			"id": "1455583",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1455583/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/4783397/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4783397/interest/248250241",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:20:20",
+		"status": "done",
+		"id": 248250241,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 1072,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-04-20"
+			],
+			"title": "蘭色 ～ Love Moon Light ～",
+			"url": "https://music.douban.com/subject/4783397/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4449781.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4449781.jpg"
+			},
+			"singer": [
+				{
+					"name": "alan"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4449781.jpg",
+			"uri": "douban://douban.com/music/4783397",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "alan / 2010",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5948b",
+				"_base_color": [
+					0.05714285714285718,
+					0.15837104072398198,
+					0.8666666666666667
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.05172413793103455,
+					0.22307692307692306,
+					0.5098039215686274
+				],
+				"primary_color_dark": "7f726b"
+			},
+			"type": "music",
+			"id": "4783397",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/4783397/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/3195238/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3195238/interest/248249076",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:15:50",
+		"status": "done",
+		"id": 248249076,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 1188,
+				"max": 10,
+				"star_count": 4,
+				"value": 8
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-10-15"
+			],
+			"title": "RED CLIFF~心・戦~",
+			"url": "https://music.douban.com/subject/3195238/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3242229.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3242229.jpg"
+			},
+			"singer": [
+				{
+					"name": "alan"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3242229.jpg",
+			"uri": "douban://douban.com/music/3195238",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "alan / 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "721517",
+				"_base_color": [
+					0.9964539007092199,
+					0.810344827586207,
+					0.22745098039215686
+				],
+				"secondary_color": "f9f4f5",
+				"_avg_color": [
+					0.9947089947089947,
+					0.7590361445783133,
+					0.3254901960784314
+				],
+				"primary_color_dark": "4c0e0f"
+			},
+			"type": "music",
+			"id": "3195238",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3195238/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/3201995/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3201995/interest/248246544",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:05:02",
+		"status": "done",
+		"id": 248246544,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 5995,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.7
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-09-15"
+			],
+			"title": "明天过后",
+			"url": "https://music.douban.com/subject/3201995/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3384949.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3384949.jpg"
+			},
+			"singer": [
+				{
+					"name": "张杰"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3384949.jpg",
+			"uri": "douban://douban.com/music/3201995",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "张杰 / 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "727272",
+				"_base_color": [
+					0,
+					0,
+					0.047058823529411764
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0,
+					0.05,
+					0.0784313725490196
+				],
+				"primary_color_dark": "4c4c4c"
+			},
+			"type": "music",
+			"id": "3201995",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3201995/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/2210561/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2210561/interest/248246212",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:04:25",
+		"status": "done",
+		"id": 248246212,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 69899,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.7
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2006-09-05"
+			],
+			"title": "依然范特西",
+			"url": "https://music.douban.com/subject/2210561/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1943885.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1943885.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s1943885.jpg",
+			"uri": "douban://douban.com/music/2210561",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2006",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72685f",
+				"_base_color": [
+					0.08333333333333333,
+					0.17112299465240643,
+					0.7333333333333333
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0,
+					0.09803921568627458,
+					0.2
+				],
+				"primary_color_dark": "4c453f"
+			},
+			"type": "music",
+			"id": "2210561",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/2210561/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/3222423/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3222423/interest/248246361",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:04:18",
+		"status": "done",
+		"id": 248246361,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 57903,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 6.9
+			},
+			"genres": [
+				"放克/灵歌/R&B"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-10-09"
+			],
+			"title": "魔杰座",
+			"url": "https://music.douban.com/subject/3222423/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3292023.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3292023.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3292023.jpg",
+			"uri": "douban://douban.com/music/3222423",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "725e38",
+				"_base_color": [
+					0.10914454277286136,
+					0.509009009009009,
+					0.8705882352941177
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.08783783783783783,
+					0.6065573770491803,
+					0.47843137254901963
+				],
+				"primary_color_dark": "4c3f25"
+			},
+			"type": "music",
+			"id": "3222423",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3222423/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1403307/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1403307/interest/248246333",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:04:10",
+		"status": "done",
+		"id": 248246333,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 168429,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.2
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2001-09-14"
+			],
+			"title": "范特西",
+			"url": "https://music.douban.com/subject/1403307/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3750422.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3750422.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3750422.jpg",
+			"uri": "douban://douban.com/music/1403307",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2001",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "723b2c",
+				"_base_color": [
+					0.036363636363636355,
+					0.6145251396648045,
+					0.7019607843137254
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.047619047619047616,
+					0.5080645161290323,
+					0.48627450980392156
+				],
+				"primary_color_dark": "4c271d"
+			},
+			"type": "music",
+			"id": "1403307",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1403307/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1412848/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1412848/interest/248246289",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:04:00",
+		"status": "done",
+		"id": 248246289,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 8043,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2003-1-1"
+			],
+			"title": "周杰伦 叶惠美<豪华珍藏版>(1碟装CD)",
+			"url": "https://music.douban.com/subject/1412848/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3256718.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3256718.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3256718.jpg",
+			"uri": "douban://douban.com/music/1412848",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2003",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72725b",
+				"_base_color": [
+					0.16666666666666666,
+					0.2,
+					0.1568627450980392
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.10317460317460315,
+					0.23076923076923073,
+					0.3568627450980392
+				],
+				"primary_color_dark": "4c4c3d"
+			},
+			"type": "music",
+			"id": "1412848",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1412848/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/2082765/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2082765/interest/248246278",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:03:56",
+		"status": "done",
+		"id": 248246278,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 12204,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2005-11-01"
+			],
+			"title": "周杰伦:十一月的萧邦(精装版)",
+			"url": "https://music.douban.com/subject/2082765/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s2409991.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s2409991.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s2409991.jpg",
+			"uri": "douban://douban.com/music/2082765",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2005",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "726e66",
+				"_base_color": [
+					0.11111111111111112,
+					0.10344827586206896,
+					0.11372549019607843
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.1190476190476189,
+					0.06796116504854371,
+					0.403921568627451
+				],
+				"primary_color_dark": "4c4944"
+			},
+			"type": "music",
+			"id": "2082765",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/2082765/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://music.douban.com/subject/1891094/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1891094/interest/248246244",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:03:48",
+		"status": "done",
+		"id": 248246244,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 6212,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [],
+			"controversy_reason": "",
+			"pubdate": [
+				"2003/11/11"
+			],
+			"title": "尋找周杰倫EP",
+			"url": "https://music.douban.com/subject/1891094/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1862352.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1862352.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰倫"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s1862352.jpg",
+			"uri": "douban://douban.com/music/1891094",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰倫 / 2003/11/11",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a5a5",
+				"_base_color": [
+					0,
+					0,
+					0.8352941176470589
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0.6138888888888889,
+					0.4477611940298507,
+					0.5254901960784314
+				],
+				"primary_color_dark": "7f7f7f"
+			},
+			"type": "music",
+			"id": "1891094",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1891094/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/2346605/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2346605/interest/248246199",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:03:37",
+		"status": "done",
+		"id": 248246199,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 4715,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.6
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2007-12-14"
+			],
+			"title": "我很忙(公仔限定版)",
+			"url": "https://music.douban.com/subject/2346605/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4455755.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4455755.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4455755.jpg",
+			"uri": "douban://douban.com/music/2346605",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2007",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "724c3f",
+				"_base_color": [
+					0.04065040650406504,
+					0.44565217391304346,
+					0.7215686274509804
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.98,
+					0.3846153846153846,
+					0.2549019607843137
+				],
+				"primary_color_dark": "4c322a"
+			},
+			"type": "music",
+			"id": "2346605",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/2346605/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/1422300/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1422300/interest/248246162",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:03:27",
+		"status": "done",
+		"id": 248246162,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 88102,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2000-11-13"
+			],
+			"title": "Jay",
+			"url": "https://music.douban.com/subject/1422300/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s8932514.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s8932514.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s8932514.jpg",
+			"uri": "douban://douban.com/music/1422300",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2000",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72594d",
+				"_base_color": [
+					0.05472636815920393,
+					0.323671497584541,
+					0.8117647058823529
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.02898550724637683,
+					0.20353982300884946,
+					0.44313725490196076
+				],
+				"primary_color_dark": "4c3b33"
+			},
+			"type": "music",
+			"id": "1422300",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1422300/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1403572/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1403572/interest/248246129",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:03:18",
+		"status": "done",
+		"id": 248246129,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 10080,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [
+				"放克/灵歌/R&B"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2002-1-1"
+			],
+			"title": "周杰伦:爱在西元前",
+			"url": "https://music.douban.com/subject/1403572/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1423031.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1423031.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s1423031.jpg",
+			"uri": "douban://douban.com/music/1403572",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2002",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "657271",
+				"_base_color": [
+					0.47916666666666646,
+					0.11428571428571438,
+					0.27450980392156865
+				],
+				"secondary_color": "f4f9f9",
+				"_avg_color": [
+					0.5357142857142857,
+					0.12727272727272732,
+					0.43137254901960786
+				],
+				"primary_color_dark": "434c4b"
+			},
+			"type": "music",
+			"id": "1403572",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1403572/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/2970033/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2970033/interest/248246101",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:03:12",
+		"status": "done",
+		"id": 248246101,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 4404,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"genres": [
+				"放克/灵歌/R&B"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-01-25"
+			],
+			"title": "周杰倫 2007世界巡迴演唱會",
+			"url": "https://music.douban.com/subject/2970033/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s2874001.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s2874001.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰倫"
+				},
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s2874001.jpg",
+			"uri": "douban://douban.com/music/2970033",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰倫 周杰伦 / 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "5b5b72",
+				"_base_color": [
+					0.6666666666666666,
+					0.2,
+					0.0784313725490196
+				],
+				"secondary_color": "f4f4f9",
+				"_avg_color": [
+					0.8888888888888891,
+					0.058823529411764774,
+					0.2
+				],
+				"primary_color_dark": "3d3d4c"
+			},
+			"type": "music",
+			"id": "2970033",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/2970033/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://music.douban.com/subject/1407700/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1407700/interest/248246081",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 12:03:06",
+		"status": "done",
+		"id": 248246081,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 28415,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.6
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2003-12-1"
+			],
+			"title": "寻找周杰伦",
+			"url": "https://music.douban.com/subject/1407700/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3726558.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3726558.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3726558.jpg",
+			"uri": "douban://douban.com/music/1407700",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": true,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2003",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "0f1372",
+				"_base_color": [
+					0.6602564102564102,
+					0.8666666666666667,
+					0.47058823529411764
+				],
+				"secondary_color": "f4f5f9",
+				"_avg_color": [
+					0.6757575757575758,
+					0.4782608695652174,
+					0.45098039215686275
+				],
+				"primary_color_dark": "0a0c4c"
+			},
+			"type": "music",
+			"id": "1407700",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1407700/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/3447099/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3447099/interest/248245084",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 11:59:07",
+		"status": "done",
+		"id": 248245084,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 109,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"genres": [],
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-03-05"
+			],
+			"title": "ひとつ(DVD付)",
+			"url": "https://music.douban.com/subject/3447099/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3576208.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3576208.jpg"
+			},
+			"singer": [
+				{
+					"name": "alan"
+				},
+				{
+					"name": "アラン"
+				},
+				{
+					"name": "阿兰·达瓦卓玛"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3576208.jpg",
+			"uri": "douban://douban.com/music/3447099",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "alan アラン 阿兰·达瓦卓玛 / 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "5e7ea5",
+				"_base_color": [
+					0.5913978494623656,
+					0.4305555555555555,
+					0.2823529411764706
+				],
+				"secondary_color": "f4f7f9",
+				"_avg_color": [
+					0.6249999999999999,
+					0.08333333333333333,
+					0.7529411764705882
+				],
+				"primary_color_dark": "48617f"
+			},
+			"type": "music",
+			"id": "3447099",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3447099/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/4054532/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4054532/interest/248245071",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 11:59:02",
+		"status": "done",
+		"id": 248245071,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 246,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2007-11-21"
+			],
+			"title": "明日への讃歌",
+			"url": "https://music.douban.com/subject/4054532/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s6871704.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s6871704.jpg"
+			},
+			"singer": [
+				{
+					"name": "alan"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s6871704.jpg",
+			"uri": "douban://douban.com/music/4054532",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "alan / 2007",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a29ea5",
+				"_base_color": [
+					0.7499999999999997,
+					0.0425531914893617,
+					0.7372549019607844
+				],
+				"secondary_color": "f7f4f9",
+				"_avg_color": [
+					0.6666666666666666,
+					0.082089552238806,
+					0.5254901960784314
+				],
+				"primary_color_dark": "7c7a7f"
+			},
+			"type": "music",
+			"id": "4054532",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/4054532/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/3418845/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3418845/interest/248205243",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-07 09:16:52",
+		"status": "done",
+		"id": 248205243,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 33,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [],
+			"controversy_reason": "",
+			"pubdate": [
+				"2005-06-06"
+			],
+			"title": "I Can See Clearly Now",
+			"url": "https://music.douban.com/subject/3418845/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3543685.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3543685.jpg"
+			},
+			"singer": [
+				{
+					"name": "Jimmy Cliff"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3543685.jpg",
+			"uri": "douban://douban.com/music/3418845",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Jimmy Cliff / 2005",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72725c",
+				"_base_color": [
+					0.16666666666666666,
+					0.19047619047619047,
+					0.16470588235294117
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.08620689655172414,
+					0.5087719298245614,
+					0.4470588235294118
+				],
+				"primary_color_dark": "4c4c3d"
+			},
+			"type": "music",
+			"id": "3418845",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3418845/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/1773785/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1773785/interest/247496583",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-04 21:00:01",
+		"status": "done",
+		"id": 247496583,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 18,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.5
+			},
+			"genres": [],
+			"controversy_reason": "",
+			"pubdate": [],
+			"title": "Jimmy Cliff - Goodbye Yesterday",
+			"url": "https://music.douban.com/subject/1773785/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1644919.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1644919.jpg"
+			},
+			"singer": [],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s1644919.jpg",
+			"uri": "douban://douban.com/music/1773785",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "7da55f",
+				"_base_color": [
+					0.2619047619047619,
+					0.42567567567567577,
+					0.5803921568627451
+				],
+				"secondary_color": "f7f9f4",
+				"_avg_color": [
+					0.25396825396825395,
+					0.3043478260869565,
+					0.5411764705882353
+				],
+				"primary_color_dark": "607f49"
+			},
+			"type": "music",
+			"id": "1773785",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1773785/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/4706755/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4706755/interest/246997274",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-03 11:38:58",
+		"status": "done",
+		"id": 246997274,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 77,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"genres": [
+				"民谣"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2009"
+			],
+			"title": "东女国",
+			"url": "https://music.douban.com/subject/4706755/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s6555712.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s6555712.jpg"
+			},
+			"singer": [
+				{
+					"name": "降央卓玛"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s6555712.jpg",
+			"uri": "douban://douban.com/music/4706755",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "降央卓玛 / 2009",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "537aa5",
+				"_base_color": [
+					0.587719298245614,
+					0.4956521739130435,
+					0.9019607843137255
+				],
+				"secondary_color": "f4f7f9",
+				"_avg_color": [
+					0.589430894308943,
+					0.4248704663212435,
+					0.7568627450980392
+				],
+				"primary_color_dark": "405e7f"
+			},
+			"type": "music",
+			"id": "4706755",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/4706755/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://music.douban.com/subject/3425392/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3425392/interest/246997247",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-03 11:38:51",
+		"status": "done",
+		"id": 246997247,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 386,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.2
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2009年01月01日"
+			],
+			"title": "金色的呼唤",
+			"url": "https://music.douban.com/subject/3425392/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s3550091.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s3550091.jpg"
+			},
+			"singer": [
+				{
+					"name": "降央卓玛"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s3550091.jpg",
+			"uri": "douban://douban.com/music/3425392",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "降央卓玛 / 2009年01月01日",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "724d1c",
+				"_base_color": [
+					0.09523809523809523,
+					0.7523364485981308,
+					0.8392156862745098
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.07207207207207207,
+					0.7628865979381443,
+					0.3803921568627451
+				],
+				"primary_color_dark": "4c3312"
+			},
+			"type": "music",
+			"id": "3425392",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3425392/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://music.douban.com/subject/4068979/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4068979/interest/246997223",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2010-05-03 11:38:45",
+		"status": "done",
+		"id": 246997223,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 274,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [
+				"民谣"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2009"
+			],
+			"title": "降央卓玛:金色的辉煌",
+			"url": "https://music.douban.com/subject/4068979/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s4174257.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s4174257.jpg"
+			},
+			"singer": [
+				{
+					"name": "降央卓玛"
+				}
+			],
+			"cover_url": "https://img9.doubanio.com/view/subject/m/public/s4174257.jpg",
+			"uri": "douban://douban.com/music/4068979",
+			"is_released": true,
+			"is_show": false,
+			"is_playable": false,
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "降央卓玛 / 2009",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5714b",
+				"_base_color": [
+					0.0707070707070707,
+					0.5469613259668508,
+					0.7098039215686275
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.06623931623931624,
+					0.48148148148148145,
+					0.6352941176470588
+				],
+				"primary_color_dark": "7f5739"
+			},
+			"type": "music",
+			"id": "4068979",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/4068979/"
+		}
+	}
+]
