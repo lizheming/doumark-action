@@ -1,4 +1,4 @@
-# .github/workflows/douban.yml 123
+# .github/workflows/douban.yml
 name: douban
 on: 
   schedule:
@@ -16,23 +16,15 @@ jobs:
       uses: lizheming/doumark-action@master
       with:
         id: trax.long
-        type: movie
-        format: json
+        type: json
+        format: csv
         dir: ./data/douban
 
-    - name: music
+    - name: book
       uses: lizheming/doumark-action@master
       with:
         id: trax.long
         type: music
-        format: json
-        dir: ./data/douban
-
-    - name: music
-      uses: lizheming/doumark-action@master
-      with:
-        id: trax.long
-        type: book
         format: json
         dir: ./data/douban
   
