@@ -16,8 +16,8 @@ jobs:
       uses: lizheming/doumark-action@master
       with:
         id: trax.long
-        type: json
-        format: csv
+        type: movie
+        format: json
         dir: ./data/douban
 
     - name: book
