@@ -10,6 +10,10 @@ inputs:
     description: "Douban data Type, enum value: `movie`, `book`, `music`, default `movie`"
     default: movie
     required: false
+  status:
+    description: "Douban data status, enum value: `mark`, `doing`, `done`, default `done`"
+    default: done
+    required: false
   format:
     description: "Douban data store format, enum value：`csv`, `json`, `notion`, default `csv`"
     default: csv
