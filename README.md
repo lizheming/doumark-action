@@ -8,6 +8,7 @@
 See [action.yml](action.yml) for more detailed information.
 - id: Douban ID
 - type: Douban data Type, enum value: movie, book, music, default `movie`
+- stauts: Douban data status, enum value: mark, doing, done, default `done`
 - format: Douban data store format, enum value：csv, json, notion, default `csv`
 - dir: Target where douban data sync to. It's a file path for `csv` and `json` format, and a notion database id for `notion` format. 
 - notion_token: Notion Integration Token
