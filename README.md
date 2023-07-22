@@ -7,11 +7,13 @@
 
 See [action.yml](action.yml) for more detailed information.
 - id: Douban ID
-- type: Douban data Type, enum value: movie, book, music, default `movie`
+- type: Douban data Type, enum value: movie, book, music, game default `movie`
 - status: Douban data status, enum value: mark, doing, done, default `done`
-- format: Douban data store format, enum value：csv, json, notion, default `csv`
+- format: Douban data store format, enum value：csv, json, notion, neodb default `csv`
 - dir: Target where douban data sync to. It's a file path for `csv` and `json` format, and a notion database id for `notion` format. 
 - notion_token: Notion Integration Token
+- neodb_token: NeoDB Access Token
+
 ## Usage
 
 ### Sync to CSV file
@@ -89,6 +91,39 @@ jobs:
         type: music
         format: notion
         dir: xxxx
-        notion_token: 
         notion_token: ${{ secrets.notion_token }}
+```
+
+### Sync to NeoDB
+
+
+1. Create a NeoDB Access Token at [NeoDB API Developer Console](https://neodb.social/developer/).
+
+```yml
+# .github/workflows/douban.yml
+name: douban
+on: 
+  schedule:
+  - cron: "30 * * * *"
+
+jobs:
+  douban:
+    name: Douban mark data sync
+    runs-on: ubuntu-latest
+    steps:
+    - name: movie
+      uses: lizheming/doumark-action@master
+      with:
+        id: lizheming
+        type: movie
+        format: neodb
+        neodb_token: ${{ secrets.neodb_token }}
+        
+    - name: music
+      uses: lizheming/doumark-action@master
+      with:
+        id: lizheming
+        type: music
+        format: neodb
+        neodb_token: ${{ secrets.neodb_token }}
 ```
