@@ -25,6 +25,9 @@ inputs:
   notion_token:
     description:  "Notion Integration Token"
     required: false
+  neodb_token:
+    description: "NeoDB Access Token"
+    required: false
 
 runs:
   using: "docker"
